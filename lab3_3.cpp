@@ -5,8 +5,8 @@ int main()
 float N = 2;
 float x = 0;
  
- while (N <= 69){
- 	x = x+(1/N);
+ while (N <= 19){
+ 	x = x+(1/(4+N));
     N = N+1;
 
  }  
